@@ -17,7 +17,7 @@ body {
     color: #4d5ae5;
 }
 span {
-    color: #f4f4fd;
+    color: #2e2f42;
 }
 footer {
 background-color: #2e2f42;
@@ -34,4 +34,6 @@ background-color: #2e2f42;
     letter-spacing: 0.03em;
     font-family: "Raleway", sans-serif;
 }
-
+.studio-second {
+    color: #f4f4fd;
+}
