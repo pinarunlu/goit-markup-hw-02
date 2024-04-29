@@ -26,8 +26,9 @@ span {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.header-list-first >a :hover {
+.header-list-first :hover {
     color: #404bbf;
+    
 }
 
 
