@@ -45,10 +45,10 @@ font-style: normal;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.first-address :hover {
+.address-list :hover {
     color: #404bbf;
 }
-.first-address :focus {
+.address-list :focus {
     color: #404bbf;
 }
 
