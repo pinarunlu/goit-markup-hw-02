@@ -74,10 +74,10 @@ font-style: normal;
     cursor: pointer;
 }
 
-.button :hover {
+button:hover {
     background-color: #404BBF;
 }
-.button :focus {
+button:focus {
     background-color: #404BBF;
 }
 
