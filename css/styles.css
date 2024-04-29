@@ -26,12 +26,12 @@ span {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.nav a.header-logo :hover {
+.header-logo :hover {
     color: #404bbf;
    
 }
 
-.nav a.header-logo :focus {
+.header-logo :focus {
     color: #404bbf;
     
 }
@@ -39,6 +39,19 @@ span {
 .address-list {
 font-style: normal;
 }
+
+.first-address {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.first-address :hover {
+    color: #404bbf;
+}
+.first-address :focus {
+    color: #404bbf;
+}
+
 footer {
 background-color: #2e2f42;
 
