@@ -7,7 +7,7 @@ body {
 body {
     background-color: #FFFFFF;
 } 
-.nav-bar a {
+.header-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -26,12 +26,12 @@ span {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.nav a :hover {
+.nav a.header-logo :hover {
     color: #404bbf;
    
 }
 
-.nav a :focus {
+.nav a.header-logo :focus {
     color: #404bbf;
     
 }
