@@ -30,6 +30,9 @@ span {
     color: #404bbf;
     
 }
+.footer-logo :focus {
+    color: #404bbf;
+}
 
 
 
