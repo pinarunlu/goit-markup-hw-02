@@ -52,6 +52,38 @@ font-style: normal;
     color: #404bbf;
 }
 
+.first-section {
+    background-color: #2e2f42;
+
+}
+.special-header {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.button-selector{
+    background-color: #4D5AE5;
+    font-family: "Roboto" ,sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.button-selector :hover {
+    background-color: #404BBF;
+}
+.button-selector :focus {
+    background-color: #404BBF;
+}
+
+
+
+
 footer {
 background-color: #2e2f42;
 
