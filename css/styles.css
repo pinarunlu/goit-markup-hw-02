@@ -26,12 +26,12 @@ span {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-nav>a :hover {
+.nav a :hover {
     color: #404bbf;
     text-decoration: none;
 }
 
-nav>a :focus {
+.nav a :focus {
     color: #404bbf;
     text-decoration: none;
 }
