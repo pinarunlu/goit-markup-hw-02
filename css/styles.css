@@ -26,12 +26,12 @@ span {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.header-logo :hover {
+.header-logo a :hover {
     color: #404bbf;
    
 }
 
-.header-logo :focus {
+.header-logo a :focus {
     color: #404bbf;
     
 }
@@ -63,7 +63,7 @@ font-style: normal;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.button-selector{
+.button-selector {
     background-color: #4D5AE5;
     font-family: "Roboto" ,sans-serif;
     font-weight: 500;
@@ -74,10 +74,10 @@ font-style: normal;
     cursor: pointer;
 }
 
-.button-selector :hover {
+.button-selector button :hover {
     background-color: #404BBF;
 }
-.button-selector :focus {
+.button-selector button :focus {
     background-color: #404BBF;
 }
 
