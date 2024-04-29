@@ -26,12 +26,12 @@ span {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.header-logo a :hover {
+nav a:hover {
     color: #404bbf;
    
 }
 
-.header-logo a :focus {
+nav a:focus {
     color: #404bbf;
     
 }
